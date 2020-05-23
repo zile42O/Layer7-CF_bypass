@@ -17,4 +17,4 @@ ua.txt - file that contains list of useragents to use.
 # How to use?
 node method.js [URL] [DURATION(SECONDS)] [MODE]
 - Example:
-node method.js https://example.com 120 request
+node method.js https://example.com 120 request 5(theards)
